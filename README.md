@@ -9,9 +9,9 @@ My goal for this analysis, using the data sources identified below, is to identi
 2. Do states / counties with a higher number farming acreage have lower poverty and unemployment — or higher?
 
 In my analysis, I will be combining various farming and economic metrics including:
-- Acreage used in agriculture
+- Acreage used for agriculture
 - Poverty rates
-- Income rates
+- Employment/Unemployment rates
 - Population rates 
 
 # Data Sources:
