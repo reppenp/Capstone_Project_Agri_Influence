@@ -35,6 +35,8 @@ My datasets are aligned on the FIPS code: Federal Information Processing Standar
 
 I will focus on a single year - 2023 which is available in all of the datasets.
 
+##### ERD /database/Agri_Influence ERD.pdf 
+
 # How to Use
 Clone Repository: git clone https://github.com/reppenp/Capstone_Project_Agri_Influence
 
